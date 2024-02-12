@@ -1,0 +1,15 @@
+/Users/kevyn/Projects/csharpcars/csharpcars/bin/Debug/net6.0/csharpcars
+/Users/kevyn/Projects/csharpcars/csharpcars/bin/Debug/net6.0/csharpcars.deps.json
+/Users/kevyn/Projects/csharpcars/csharpcars/bin/Debug/net6.0/csharpcars.runtimeconfig.json
+/Users/kevyn/Projects/csharpcars/csharpcars/bin/Debug/net6.0/csharpcars.dll
+/Users/kevyn/Projects/csharpcars/csharpcars/bin/Debug/net6.0/csharpcars.pdb
+/Users/kevyn/Projects/csharpcars/csharpcars/obj/Debug/net6.0/csharpcars.csproj.AssemblyReference.cache
+/Users/kevyn/Projects/csharpcars/csharpcars/obj/Debug/net6.0/csharpcars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevyn/Projects/csharpcars/csharpcars/obj/Debug/net6.0/csharpcars.AssemblyInfoInputs.cache
+/Users/kevyn/Projects/csharpcars/csharpcars/obj/Debug/net6.0/csharpcars.AssemblyInfo.cs
+/Users/kevyn/Projects/csharpcars/csharpcars/obj/Debug/net6.0/csharpcars.csproj.CoreCompileInputs.cache
+/Users/kevyn/Projects/csharpcars/csharpcars/obj/Debug/net6.0/csharpcars.dll
+/Users/kevyn/Projects/csharpcars/csharpcars/obj/Debug/net6.0/refint/csharpcars.dll
+/Users/kevyn/Projects/csharpcars/csharpcars/obj/Debug/net6.0/csharpcars.pdb
+/Users/kevyn/Projects/csharpcars/csharpcars/obj/Debug/net6.0/csharpcars.genruntimeconfig.cache
+/Users/kevyn/Projects/csharpcars/csharpcars/obj/Debug/net6.0/ref/csharpcars.dll

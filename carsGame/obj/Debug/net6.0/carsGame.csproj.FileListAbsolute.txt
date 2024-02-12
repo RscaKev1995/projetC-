@@ -1,0 +1,15 @@
+/Users/kevyn/Projects/csharpcars/carsGame/bin/Debug/net6.0/carsGame
+/Users/kevyn/Projects/csharpcars/carsGame/bin/Debug/net6.0/carsGame.deps.json
+/Users/kevyn/Projects/csharpcars/carsGame/bin/Debug/net6.0/carsGame.runtimeconfig.json
+/Users/kevyn/Projects/csharpcars/carsGame/bin/Debug/net6.0/carsGame.dll
+/Users/kevyn/Projects/csharpcars/carsGame/bin/Debug/net6.0/carsGame.pdb
+/Users/kevyn/Projects/csharpcars/carsGame/obj/Debug/net6.0/carsGame.csproj.AssemblyReference.cache
+/Users/kevyn/Projects/csharpcars/carsGame/obj/Debug/net6.0/carsGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevyn/Projects/csharpcars/carsGame/obj/Debug/net6.0/carsGame.AssemblyInfoInputs.cache
+/Users/kevyn/Projects/csharpcars/carsGame/obj/Debug/net6.0/carsGame.AssemblyInfo.cs
+/Users/kevyn/Projects/csharpcars/carsGame/obj/Debug/net6.0/carsGame.csproj.CoreCompileInputs.cache
+/Users/kevyn/Projects/csharpcars/carsGame/obj/Debug/net6.0/carsGame.dll
+/Users/kevyn/Projects/csharpcars/carsGame/obj/Debug/net6.0/refint/carsGame.dll
+/Users/kevyn/Projects/csharpcars/carsGame/obj/Debug/net6.0/carsGame.pdb
+/Users/kevyn/Projects/csharpcars/carsGame/obj/Debug/net6.0/carsGame.genruntimeconfig.cache
+/Users/kevyn/Projects/csharpcars/carsGame/obj/Debug/net6.0/ref/carsGame.dll
